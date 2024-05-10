@@ -2,6 +2,7 @@
 # < Hello Coders 👾 I'm Tirth Nandha 👋 />
 3rd Year CSE Student at Vishwakarma Government Engineering College, Ahmedabad, on a relentless quest for knowledge and skill enhancement. 💻 Passionate about full stack web development and fascinated by the realms of AI/ML. 🧠 Currently delving into problem-solving, honing DSA skills, and exploring competitive programming. 🚀 Excited to connect with like-minded individuals and showcase my unique perspective in the tech world! 🌐
 
+[![](https://visitcount.itsvg.in/api?id=TirthNandha&icon=2&color=3)](https://visitcount.itsvg.in)
 
 
 # 💻 Tech Stack:
@@ -14,5 +15,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TirthNandha&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=TirthNandha&icon=2&color=3)](https://visitcount.itsvg.in)
 
